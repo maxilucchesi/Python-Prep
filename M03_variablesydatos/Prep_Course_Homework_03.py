@@ -7,7 +7,7 @@
 
 # In[7]:
 
-
+print('hola mundo')
 
 
 # 2) Imprimir el tipo de dato de la constante 8.5
